@@ -1,0 +1,62 @@
+
+@media (max-width: 576px){
+	.feature { 
+    text-align: center;
+}
+}
+@media (max-width: 767px){
+	.logo {
+    text-align: center;
+    margin-bottom: 20px;
+	}
+	.welcome-section{
+		background:url();
+	}
+.footer-box {
+    text-align: center;
+    margin-bottom: 20px
+}
+.footer-box .address li {
+    padding: 0;
+    margin-bottom: 15px;
+    width: 70%;
+    text-align: left;
+    margin-left: auto;
+}
+}
+
+@media (max-width: 500px){
+	.top-header-section .address{
+		display: none;
+	}
+	.logo { 
+    margin-bottom: 0;
+}
+.top-header-section {
+    padding: 25px 0 !important;
+}
+
+}
+@media (max-width: 1400px){
+.slide-content h1 span {
+ display: none;
+}
+}
+@media (max-width: 1200px){
+	.camera_wrap img {
+   display: none
+}
+.slide-content h1 span { 
+    font-size: 30px;
+    }
+    .welcome-section { 
+    background-size: 40%;
+    background-position: 0 100%;
+	}
+}
+@media (max-width: 1400px){
+	.cameraContent .align-self-center{
+		align-self:flex-start !important;
+		margin-top: 100px
+	}
+}
